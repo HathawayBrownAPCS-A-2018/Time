@@ -1,9 +1,10 @@
 
 /**
- * Write a description of class TimeTest here.
+ * A class to test the Time class built in class.
+ * Successfully used the word "class" three times in one sentence :-)
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author APCS-A
+ * @version 2018-10
  */
 
 import java.util.Scanner;
